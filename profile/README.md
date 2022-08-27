@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 This is the official github for the BoxPvPv.net minecraft server network.
 
